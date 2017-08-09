@@ -31,7 +31,7 @@
 				<nav>
 					<div class="cross-mark">&#10060;</div> 
 					<ul>
-						<li><a href="index.html" class="active">Home</a></li>
+						<li><a href="index.php" class="active">Home</a></li>
 						<li class="nav-item"><a href="#" data-icon="&#xf0d7">Samples </a>
 							<ul>
 								<li><a href="#">Helpato</a></li>
@@ -309,7 +309,7 @@
 			</div>
 			<div class="bottom-menu">
 				<ul>
-					<li><a href="index.html">home</a></li>
+					<li><a href="index.php">home</a></li>
 					<li><a href="#">blog</a></li>
 					<li><a href="#">features</a></li>
 					<li><a href="#">pricing</a></li>

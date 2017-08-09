@@ -618,7 +618,7 @@ footer a.drib-icon:hover {
 
 @media all and (max-width: 700px) {
 
-	/*--General start*/
+	/*--General start--*/
 	.page-width {
 		width: 100%;
 		padding: 0 5px;
@@ -634,9 +634,9 @@ footer a.drib-icon:hover {
 	.sec-pos {
 		padding-top: 40px;
 	}
-	/*--General end*/
+	/*--General end--*/
 
-	/*--Header start*/
+	/*--Header start--*/
 
 	header {
 		padding-top: 12px;
@@ -691,9 +691,9 @@ footer a.drib-icon:hover {
     	font-size: 13px;
 	}
 	
-	/*--Header end*/
+	/*--Header end--*/
 	
-	/*--Sample start*/
+	/*--Sample start--*/
 	.sample {
 		height: auto;
 		overflow: hidden;
@@ -714,9 +714,9 @@ footer a.drib-icon:hover {
 	.image-caption {
 		margin-top: 8px;
 	}	
-	/*--Sample end*/
+	/*--Sample end--*/
 
-	/*--Variaties start*/
+	/*--Variaties start--*/
 	.variaties {
 		height: auto;
 	}
@@ -733,9 +733,9 @@ footer a.drib-icon:hover {
 		width: 100%;
 		height: 65vw;
 	}
-	/*--Variaties end*/
+	/*--Variaties end--*/
 
-	/*--Functional start*/
+	/*--Functional start--*/
 	.functional {
 		height: auto;
 	}	
@@ -756,9 +756,9 @@ footer a.drib-icon:hover {
 		width: 100%;
 		height: 64vw;
 	}	
-	/*--Functional end*/
+	/*--Functional end--*/
 
-	/*--License start*/
+	/*--License start--*/
 	.license {
 		height: auto;
 	}
@@ -780,9 +780,9 @@ footer a.drib-icon:hover {
 	.ext-license {
 		margin-bottom: 50px;
 	}
-	/*--License end*/
+	/*--License end--*/
 
-	/*--Features start*/
+	/*--Features start--*/
 	.features {
 		height: auto;
 	}
@@ -797,9 +797,9 @@ footer a.drib-icon:hover {
 		font-size: 13px;
 		padding: 0 30px;
 	}
-	/*--Features end*/
+	/*--Features end--*/
 
-	/*--Customization start*/
+	/*--Customization start--*/
 	.customization {
 		height: auto;
 	}
@@ -818,9 +818,9 @@ footer a.drib-icon:hover {
 		font-size: 10px;
 	    margin: 18px 0 27px;
 	}
-	/*--Customization end*/
+	/*--Customization end--*/
 
-	/*--Business start*/
+	/*--Business start--*/
 	.business {
 		height: auto;
 	}
@@ -832,9 +832,9 @@ footer a.drib-icon:hover {
 		position: static;
 		height: 64vw;
 	}
-	/*--Business end*/
+	/*--Business end--*/
 
-	/*--Option start*/
+	/*--Option start--*/
 	.option {
 		height: auto;
 		padding: 35px 0 0;
@@ -863,14 +863,14 @@ footer a.drib-icon:hover {
 		content: none;
 	}
 	.option-content ul li {
-		background: url("../images/tick-image.jpg") 2px 2px no-repeat;
+		background: url("../images/tick-image.jpg") 6px 5px no-repeat;
 		text-align: left;
 		padding-left: 23px;
 		line-height: 26px;
 	}
-	/*--Option end*/
+	/*--Option end--*/
 
-	/*--Footer start*/
+	/*--Footer start--*/
 	footer {
 		height: auto;
 		text-align: center;						
@@ -890,7 +890,7 @@ footer a.drib-icon:hover {
 	footer .social {
 		margin-bottom: 38px;
 	}
-	/*--Footer end*/
+	/*--Footer end--*/
 
 	
 
