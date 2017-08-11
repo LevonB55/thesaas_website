@@ -645,10 +645,6 @@ footer a.drib-icon:hover {
 	.menu-hamburger {
 		display: block;
 	}
-	.logo img {
-	position: relative;
-	top: -1px;
-	}
 	.cross-mark {
 		display: block;
 		cursor: pointer;
@@ -896,5 +892,10 @@ footer a.drib-icon:hover {
 	}
 	/*--Footer end--*/
 
+	@media screen and (min-width: 500px) and (max-width: 700px) {
+		.option-content ul li {
+			background-position: 1% 42%;
+		}
+	}
 	
 
