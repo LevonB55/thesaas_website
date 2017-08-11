@@ -866,6 +866,7 @@ footer a.drib-icon:hover {
 		background: url("../images/tick-image.jpg") 6px 5px no-repeat;
 		text-align: left;
 		padding-left: 23px;
+		font-size: 14px;
 		line-height: 26px;
 	}
 	/*--Option end--*/
